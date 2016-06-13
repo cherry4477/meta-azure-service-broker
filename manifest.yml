@@ -4,10 +4,10 @@ applications:
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   instances: 1
   env:
-    environment: REPLACE-ME
-    subscription_id: REPLACE-ME
-    tenant_id: REPLACE-ME
-    client_id: REPLACE-ME
-    client_secret: REPLACE-ME
-    docDb_hostEndPoint: REPLACE-ME
-    docDb_masterKey: REPLACE-ME 
+    environment: AzureCloud
+    subscription_id: 
+    tenant_id: 
+    client_id: 
+    client_secret:
+    docDb_hostEndPoint:
+    docDb_masterKey:
