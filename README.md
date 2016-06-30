@@ -11,7 +11,7 @@ You need an Azure account. With the account, you need to prepare a service princ
 ## How to deploy and use
 
 * [How Cloud Foundry Admin deploy the meta Azure service broker](docs/how-admin-deploy-the-broker.md)
-* [create service principal]https://github.com/cloudfoundry-incubator/bosh-azure-cpi-release/blob/master/docs/get-started/create-service-principal.md
+* [create service principal](https://github.com/cloudfoundry-incubator/bosh-azure-cpi-release/blob/master/docs/get-started/create-service-principal.md)
 
 ## The provided services
 
